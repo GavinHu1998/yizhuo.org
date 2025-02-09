@@ -1,0 +1,82 @@
+{
+    "home":"Home",
+    "about":"About",
+    "skills":"Skills",
+    "portfolio":"Works",
+
+    "contact":"Contact",
+    "contactt":"Download Resume",
+    "home__title":"Hi, I'm <br /> Yizhuo Hu",
+    "home__subtitle1":"Full Stack developer<br/>(Focuse On Frontend)",
+    "home__subtitle2":"Frontend + Backend Skills",
+    "home__subtitle3":"Full Stack developer<br/>(Focuse On Frontend)",
+    "home__description":"Boost your project to success with a <br/><b>full-stack developer</b> who masters <b>UX</b>!",
+    "home__contact":"Contact Me",
+    "home__scroll-name":"Scroll Down",
+    "about__title":"About Me",
+    "about__subtitle":"           ",
+    "about__description":"Front-end developer with over 2 years of UX/UI experience.Skilled at bridging design and development, accelerating UI implementation, and aligning technical execution with business goals.Expertise in creating user-centric designs, delivering responsive prototypes, and ensuring pixel-perfect front-end development.",
+    "about__info-name1":"Years of <br /> experience",
+    "about__info-name2":"Completed <br /> projects",
+    "about__info-name3":"Companies <br /> worked",
+    "download":"Download Resume",
+    "skills__title":"Skills",
+    "skills__subtitle":"               ",
+    "skills__years":"More than 2 years",
+    "skills__title2":"UX + Graphic Skills",
+    "skills__years2":"More than 2 years",
+
+    "qualification__title":"Qualification",
+    "qualification__subtitle":"           ",
+    "education":"Education",
+    "work":"Company",
+
+    "qualification1__title":"Digital Media Art",
+    "qualification1__subtitle":"Luxun Academy of Fine Arts<br/>(Bachelor Degree)",
+
+    "qualification2__title":"Software Development",
+    "qualification2__subtitle":"Bow Valley College<br/>(In Canada)",
+
+    "qualification3__title":"Web Development",
+    "qualification3__subtitle":"Self-Study",
+
+    "qualification4__title":"Silkroad Visual Technology Co",
+    "qualification4__subtitle":"UI Designer",
+    "qualification5__title":"Wicresoft<br/>(Outsource to <b>Microsoft</b>)",
+    "qualification5__subtitle":"UX Designer",
+
+
+    "portfolio__title":"Frontend Works",
+    "portfolio__subtitle":"              ",
+    "portfolio1__title":"Data Visualization Platform",
+    "portfolio1__description":"Developed an interactive chart platform using the Recharts library to visualize key business metrics, supporting various chart types (e.g., line, bar, pie) and dynamic data updates.",
+    "portfolio2__title":"PDF File Preview Tool",
+    "portfolio2__description":"Built a PDF file preview tool using PDF.js, supporting multi-page navigation, text selection, and zooming functionalities.",
+    "portfolio3__title":"BP Oil Alert Platform",
+    "portfolio3__description":"Contribution:Implemented advanced data visualization features using React and charting libraries, enabling real-time monitoring and decision-making, etc.  ",
+    "portfolio4__title":"Smart Catering",
+    "portfolio4__description":"This iPad-based ordering app integrates multiple functional modules, offering a comprehensive restaurant management experience.",
+
+    "portfolioo__title":"UX Works",
+    "portfolioo__subtitle":"                 ",
+    "portfolioo1__title":"Implementation Design System",
+    "portfolioo1__description":"Website adaptable to all devices, with ui components and animated interactions.",
+    "portfolioo2__title":"Modern Website 2",
+    "portfolioo2__description":"Website adaptable to all devices, with ui components and animated interactions.",
+    "portfolioo3__title":"Canva Web Design",
+    "portfolioo3__description":"Personal Website &  Art Website",
+    "portfolioo4__title":"Canva Graphic Design",
+    "portfolioo4__description":"Christmas party greeting card design",
+
+
+
+
+    "contact__title":"Contact me",
+    "contact__subtitle":"              ",
+    "tel":"Call me",
+    "tel__number":"825-288-0555",
+    "email":"E-mail",
+    "email__address":"yizhuo.hu1998@gmail.com",
+    "location":"Location",
+    "location__detail":"Canada"
+}
