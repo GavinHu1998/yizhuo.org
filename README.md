@@ -1,6 +1,7 @@
 ```markdown
 # Yizhuo Hu  
-📞 825-288-0555 | 📧 [yizhuo.hu1998@gmail.com](mailto:yizhuo.hu1998@gmail.com) | 🌍 [yizhuo.org](https://yizhuo.org) | 💻 [GitHub](https://github.com/GavinHu1998)  
+📞 825-288-0555 | 📧 [yizhuo.hu1998@gmail.com](mailto:yizhuo.hu1998@gmail.com) 
+🌍 [yizhuo.org](https://yizhuo.org) | 💻 [GitHub](https://github.com/GavinHu1998)  
 
 ## 🔹 Technical Skills  
 **Full Stack:** TypeScript, React, Next.js, Vite, Axios, Tailwind CSS, Node.js, Express, Bootstrap, MongoDB, Postman  
