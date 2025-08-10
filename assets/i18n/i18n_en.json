@@ -31,19 +31,19 @@
     "education":"Education",
     "work":"Company",
 
-    "qualification1__title":"Digital Media Art",
-    "qualification1__subtitle":"Luxun Academy of Fine Arts<br/>(Bachelor Degree)",
+    "qualification1__title":"Software Development",
+    "qualification1__subtitle":"Bow Valley College<br/>(In Canada)",
 
-    "qualification2__title":"Software Development",
-    "qualification2__subtitle":"Bow Valley College<br/>(In Canada)",
+    "qualification2__title":"Digital Media Art",
+    "qualification2__subtitle":"Luxun Academy of Fine Arts<br/>(Bachelor Degree)",
 
-    "qualification3__title":"Web Development",
-    "qualification3__subtitle":"Self-Study",
+    "qualification3__title":"",
+    "qualification3__subtitle":"",
 
-    "qualification4__title":"Silkroad Visual Technology Co",
-    "qualification4__subtitle":"UI Designer",
-    "qualification5__title":"Wicresoft<br/>(Outsource to <b>Microsoft</b>)",
-    "qualification5__subtitle":"UX Designer",
+    "qualification4__title":"Wicresoft<br/>(Outsource to <b>Microsoft</b>)",
+    "qualification4__subtitle":"UX Designer",
+    "qualification5__title":"Silkroad Visual Technology Co",
+    "qualification5__subtitle":"UI Designer",
 
 
     "portfolio__title":"Frontend Works",
@@ -57,16 +57,39 @@
     "portfolio4__title":"Smart Catering",
     "portfolio4__description":"This iPad-based ordering app integrates multiple functional modules, offering a comprehensive restaurant management experience.",
 
-    "portfolioo__title":"UX Works",
+
+
+    "portfolioo__title":"UI / UX Works",
     "portfolioo__subtitle":"                 ",
-    "portfolioo1__title":"Implementation Design System",
-    "portfolioo1__description":"Website adaptable to all devices, with ui components and animated interactions.",
-    "portfolioo2__title":"Modern Website 2",
-    "portfolioo2__description":"Website adaptable to all devices, with ui components and animated interactions.",
-    "portfolioo3__title":"Canva Web Design",
-    "portfolioo3__description":"Personal Website &  Art Website",
-    "portfolioo4__title":"Canva Graphic Design",
-    "portfolioo4__description":"Christmas party greeting card design",
+
+    "portfolioo1__title":"RiriBa SaaS Program",
+    "portfolioo1__description":"RiriBa is a SaaS tool that tracks e-commerce traffic, manages reviews and inventory, helping businesses cut costs and streamline sales.",
+
+    "portfolioo2__title":"Outsourced Project",
+    "portfolioo2__description":"This is a premium-style product introduction page; due to contractual reasons, all text and images have been replaced, and the design focuses on responsive layouts for Web, iPad, and mobile devices.",
+    
+    "portfolioo3__title":"iPad Ordering Optimization",
+    "portfolioo3__description":"Optimize the POS and iPad ordering process by improving streamlining interactions, and enhancing visuals to address issues of complexity, and inefficiency, resulting in intuitive ordering.",
+
+    "portfolioo4__title":"Variant-Based UX Strategies",
+    "portfolioo4__description":"In UI meetings, I usually present multiple versions of a module, which allows the team to compare different design options, making it easier to discuss pros and cons, speed up decision-making.",
+
+    "portfolioo5__title":"Static Web Page Design",
+    "portfolioo5__description":"Developed static webpages in different styles for official website displays, providing clients with diverse options.",
+
+    "portfolioo6__title":"Graphic Design",
+    "portfolioo6__description":"Designed posters using Photoshop and Illustrator and created a web display, demonstrating proficiency in image editing and layout tools.",
+   
+   
+   
+   
+   
+   
+    "portfolioo8__title":"Canva Web Design",
+    "portfolioo8__description":"Personal Website &  Art Website",
+
+    "portfolioo9__title":"Canva Graphic Design",
+    "portfolioo9__description":"Christmas party greeting card design",
 
 
 
