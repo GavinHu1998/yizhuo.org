@@ -58,6 +58,8 @@
     "portfolio4__description":"This project is a Single Page Application (SPA) built with React, designed for managing a digital library.",
     "portfolio5__title":"Smart Catering",
     "portfolio5__description":"This iPad-based ordering app integrates multiple functional modules, offering a comprehensive restaurant management experience.",
+    "portfolio6__title":"VR House Tour (Three.js)",
+    "portfolio6__description":"A Three.js-based VR house tour app with 360° panoramas, hotspot navigation, and smooth scene transitions.",
 
 
     
