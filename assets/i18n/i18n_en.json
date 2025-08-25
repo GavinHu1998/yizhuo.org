@@ -19,7 +19,10 @@
     "about__info-name1":"Years of <br /> experience",
     "about__info-name2":"Completed <br /> projects",
     "about__info-name3":"Companies <br /> worked",
-    "download":"Download Resume",
+
+    "download1":"Download UX Resume",
+    "download2":"Download Frontend Resume",
+
     "skills__title":"Skills",
     "skills__subtitle":"               ",
     "skills__years":"More than 2 years",

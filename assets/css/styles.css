@@ -468,6 +468,10 @@ img {
   display: flex;
   justify-content: center;
 }
+.about__buttons2 {
+  display: flex;
+  justify-content: center;
+}
 
 /*==================== SKILLS ====================*/
 .skills__container {
@@ -1066,6 +1070,10 @@ img {
           justify-content: space-between;
       }
       .about__buttons {
+          justify-content: initial;
+      }
+      .about__buttons2 {
+        padding-top: 10px;
           justify-content: initial;
       }
       .qualification__tabs {
