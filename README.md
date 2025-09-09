@@ -1,51 +1,81 @@
-```markdown
-# Yizhuo Hu  
-📧 [yizhuo.hu1998@gmail.com](mailto:yizhuo.hu1998@gmail.com) 
-🌍 [yizhuo.org(portfolio)](https://yizhuo.org) | 💻 [GitHub](https://github.com/GavinHu1998)  
+# Yizhuo Hu
 
-## 🔹 Technical Skills  
-**Full Stack:** TypeScript, React, Next.js, Vite, Axios, Tailwind CSS, Node.js, Express, Bootstrap, MongoDB, Postman  
-**Design:** Figma, Photoshop, Retool, Git, WIX, Framer  
+**Email:** yizhuo.hu1998@gmail.com  
+**Portfolio:** [yizhuo.org](https://yizhuo.org)  
+**GitHub:** [GavinHu1998](https://github.com/GavinHu1998)  
 
-## 🔹 Personal Strength  
-Front-end developer with over 2 years of UX/UI experience. Skilled at bridging design and development, accelerating UI implementation, and aligning technical execution with business goals. Expertise in creating user-centric designs, delivering responsive prototypes, and ensuring pixel-perfect front-end development.  
+---
 
-## 🔹 Work Experience  
+## Technical Skills
 
-### **Silkroad Visual Technology Co., Ltd.** | *UI Designer* | 2021.9 - 2022.10  
-- Collaborated with developers to translate high-fidelity designs into functional enterprise iPad applications, ensuring seamless integration and pixel-perfect delivery.  
-- Designed intuitive user interfaces and streamlined workflows to improve user experience and productivity.  
+**Stack:** TypeScript, React, Next.js, Vite, Axios, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, Postman, Jenkins, Git  
+**Design:** Figma, Photoshop, Retool, Webflow, Framer  
 
-### **Wicresoft Co., Ltd. (Outsourcing to Microsoft)** | *UX Designer* | 2022.11 - 2023.11  
-- Conducted user research and analyzed core business needs to optimize product design and user workflows.  
-- Designed intuitive dashboards and interactive data charts to visually communicate key business metrics, enhancing decision-making efficiency.  
-- Developed and maintained a unified design system and UI component library, ensuring design consistency and improving development collaboration.  
+---
 
-## 🔹 Projects  
+## Personal Strength
 
-### **BP Oil Alert Platform** | *PaaS | Web | 2022.11 - 2023.11* | Tools: Figma, Office 365  
-- Implemented advanced data visualization features using React and charting libraries, enabling real-time monitoring and decision-making.  
-- Developed employee safety management modules, ensuring compliance with safety standards and supporting incident review workflows.  
-- Optimized large-scale data processing and UI performance, enhancing system usability for enterprise users.  
+Frontend developer with UX/UI experience. Skilled at delivering end-to-end solutions from design to development. Able to understand business needs, break down requirements into reusable design and front-end components, ensuring both visual quality and technical efficiency.
 
-### **Data Visualization Platform** | Tools: React, Vite, Rechart.js  
-**Description:** Developed an interactive chart platform using the Recharts library to visualize key business metrics, supporting various chart types (e.g., line, bar, pie) and dynamic data updates.  
-- Built reusable chart components with Recharts, supporting dynamic updates in React-based applications.  
-- Optimized rendering algorithms to handle large datasets efficiently, ensuring smooth user interactions.  
-- Enhanced interactivity with advanced features like tooltips, zooming, and filtering for a better user experience.  
+---
 
-### **File Preview Tool** | Tools: React, Webpack, PDF.js  
-**Description:** Built a PDF file preview tool using PDF.js, supporting multi-page navigation and text selection.  
-- Integrated PDF.js for multi-page PDF rendering, enabling text selection, zooming, and cross-browser compatibility.  
-- Implemented a PDF.js web viewer with text highlighting, annotations, and navigation features.  
-- Customized the user interface to optimize the toolbar's interaction logic and improve usability.  
-- Debugged and resolved rendering performance issues for large and complex PDF files, ensuring smooth previews.  
+## Canada Volunteer Experience
 
-## 🔹 Education & Certifications  
-📚 **Luxun Academy of Fine Arts** | *Digital Media Art, Bachelor Degree (WES)* | 2017.9 - 2021.6  
-📚 **Bow Valley College** | *Software Development, Diploma Degree (Canada)* | 2024.1 - 2025.4  
+**65square | UI + Frontend (hybrid) | 2025.1 – 2025.08**  
+- Developed reusable front-end components and design templates, ensuring a consistent visual style.  
+- Collaborated with product managers to refine PRD specifications, optimizing interaction workflows and aligning them with technical feasibility.  
+- Translated Figma design structures and interaction logic into responsive frontend code, improving development efficiency.  
 
-## 🔹 Languages & Others  
-- **Languages:** Fluent in English (written and spoken), Native in Mandarin  
-- **Others:** Enthusiastic about exploring emerging front-end technologies and frameworks to deliver enhanced user experiences.  
-```
+---
+
+## Work Experience
+
+**Wicresoft Co., Ltd. (Outsourcing to Microsoft) | Frontend + UX (hybrid) | 2022.11 - 2023.11**  
+- Translated user journeys, personas, and service blueprints into functional UI components.  
+- Built responsive wireframes, interactive prototypes, and reusable UI components in React and Figma, aligned with enterprise-level design systems.  
+- Implemented data visualizations using D3.js and Chart.js to display complex data in intuitive formats.  
+- Developed server-side applications and RESTful APIs with Node.js and Express for efficient CRUD operations.  
+- Managed deployments using Jenkins CI/CD pipelines and Docker.
+
+**Silkroad Visual Technology Co., Ltd. | Frontend + UI (hybrid) | 2021.9 - 2022.10**  
+- Translated business and user requirements into meaningful design solutions.  
+- Worked in Agile sprints with PMs and engineers to ensure design feasibility.  
+- Designed and implemented reusable UI components and frontend libraries from Figma lofi/hifi designs into responsive HTML/CSS/JS.  
+- Debugged and resolved complex frontend issues efficiently.  
+
+---
+
+## Projects
+
+### Data Visualization Component  
+**Tools:** React, Vite, Rechart.js, Figma  
+**Description:** Visual chart component for key business metrics with support for multiple chart types.  
+- Refined reusable chart components based on product requirements and Figma designs through design review.  
+- Designed a configurable chart component framework for line, bar, and pie charts with a unified API.  
+- Implemented custom tooltips and interactive elements to enhance usability.  
+- Applied performance optimization strategies (lazy loading, code-splitting).  
+- Resolved memory leaks by auditing event listeners and cleaning up subscriptions.  
+
+### File Preview Feature  
+**Tools:** React, Webpack, PDF.js  
+**Description:** PDF preview feature in a web application with optimized rendering.  
+- Implemented smooth multi-page navigation, zooming, and text selection.  
+- Optimized performance for large PDF files using lazy loading and caching.  
+- Configured Webpack to separate PDF.js workers for stable builds.  
+- Customized UI and toolbar interactions by analyzing user flows and aligning with design system.
+
+### VR House Tour Prototype (Three.js)  
+[GitHub Link](https://github.com/GavinHu1998/Three.js-Virtual-Tour-Project.git)  
+
+### Cleaning Service Management App (React Native)  
+[GitHub Link](https://github.com/GavinHu1998/Mobile-Field-Service-Management-App-Open.git)  
+
+### Library Management SPA (React)  
+[GitHub Link](https://github.com/GavinHu1998/Book-management-frontend.git)  
+
+---
+
+## Education & Certifications
+
+- **Luxun Academy of Fine Arts | Digital Media Art | Bachelor Degree** | 2017.9 - 2021.6 (WES)  
+- **Bow Valley College | Software Development | Diploma Degree** | 2024.1 - 2025.4 (Canada)  
